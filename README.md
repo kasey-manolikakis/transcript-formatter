@@ -1,6 +1,23 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project includes both:
+
+- A **backend server** (Node/Express) located in the `/server` directory  
+- A **frontend React app** created with Create React App
+
+To run the project successfully, **you MUST start the backend server before running the React application**.
+
+---
+
+##  Starting the Backend (Required Before Running React)
+
+Open a terminal and run:
+
+```bash
+cd server
+npm install     # only needed the first time
+npm start
+
 
 ## Available Scripts
 
