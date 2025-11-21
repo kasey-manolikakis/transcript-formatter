@@ -15,6 +15,7 @@ Follow these rules strictly and without exception:
 
 ## 1. Content Rules
 - Do not add any new information.  
+- In patient dictation do not correct any spelling mistakes, do not infer any medical termanology, keep the wording and mistakes as is
 - Remove filler words, repeated phrases, hesitations, and dictation artifacts (“euh”, “virgule”, etc.).  
 - Correct all spelling, grammar, conjugation, and medical terminology errors.  
 - Infer correct medical terms only when the dictation clearly contains a misspelling.  
