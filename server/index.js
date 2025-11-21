@@ -19,7 +19,7 @@ app.post("/format", async (req, res) => {
 
     const result = await ai.models.generateContent({
         model: "gemini-2.5-flash",
-        contents: text,
+        contents: [text],
         temperature: 0.2,
     });
 

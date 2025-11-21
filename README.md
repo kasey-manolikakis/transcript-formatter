@@ -16,7 +16,7 @@ Open a terminal and run:
 ```bash
 cd server
 npm install     # only needed the first time
-npm start
+node index.js
 
 
 ## Available Scripts
